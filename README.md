@@ -1,6 +1,6 @@
-# meet_flutter_app
+# App Meet Flutter
 
-A new Flutter project.
+Aplicación con pantalla de bienvenida para mostrar las principales caracteristicas de Flutter
 
 ## Getting Started
 
