@@ -1,6 +1,6 @@
 # App Meet Flutter
 
-Aplicación con pantalla de bienvenida para mostrar las principales caracteristicas de Flutter
+Aplicación con pantalla de bienvenida para mostrar las principales características de Flutter
 
 ## Getting Started
 
